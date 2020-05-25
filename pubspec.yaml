@@ -1,0 +1,42 @@
+name: rockit
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.3
+
+  flutter_svg: ^0.17.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/icons/
+    - assets/images/
+
+  fonts:
+    - family: MuliBold
+      fonts:
+        - asset: assets/fonts/Muli-Bold.ttf
+    - family: MuliSemiBold
+      fonts:
+        - asset: assets/fonts/Muli-SemiBold.ttf
+    - family: MuliRegular
+      fonts:
+        - asset: assets/fonts/Muli-Regular.ttf
+    - family: MuliMedium
+      fonts:
+        - asset: assets/fonts/Muli-Medium.ttf
+  
