@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+![Rockit](https://user-images.githubusercontent.com/27451718/82772796-ae5cae00-9e16-11ea-9464-39882fd69f34.png)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
